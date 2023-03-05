@@ -1,0 +1,19 @@
+Index: visualgit/mian.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.visualgit;\r\n\r\n\r\nimport com.visualgit.MyGit.*;\r\nimport org.eclipse.jgit.api.Git;\r\nimport org.eclipse.jgit.api.errors.GitAPIException;\r\nimport org.eclipse.jgit.transport.CredentialsProvider;\r\nimport org.eclipse.jgit.transport.RefSpec;\r\nimport org.eclipse.jgit.transport.URIish;\r\nimport org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;\r\n\r\nimport javax.lang.model.type.NullType;\r\nimport javax.swing.*;\r\nimport java.awt.*;\r\nimport java.io.File;\r\nimport java.net.URISyntaxException;\r\nimport java.util.HashMap;\r\nimport java.util.HashSet;\r\nimport java.util.Map;\r\nimport java.util.Set;\r\npublic class mian {\r\n    public static <JGitUtils> void main(String[] args) throws GitAPIException, URISyntaxException {\r\n        String localPath = \"E:\\\\JAVA程序设计\\\\test2\";\r\n\r\n\r\n        com.visualgit.MyGit.JGitUtils jGitUtils=null;\r\n        Git git = jGitUtils.openRpo(localPath); //获取git对象\r\n        System.out.println(git);\r\n//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\r\n        CredentialsProvider provider = new UsernamePasswordCredentialsProvider(\"PRIVATE-TOKEN\", \"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\");  //生成身份信息\r\n\r\n        String branch = \"master\";   //克隆目标分支\r\n  /*      git.push()\r\n                .setRemote(\"origin\")    //设置推送的URL名称\r\n                .setRefSpecs(new RefSpec(branch))   //设置需要推送的分支,如果远端没有则创建\r\n                .setCredentialsProvider(provider)   //身份验证\r\n                .call();\r\n*/\r\n        git .remoteAdd().setName(\"origin\")\r\n                        .setUri(new URIish(\"https://github.com/ZraryZU/testrepo.git\"))\r\n                                .call();\r\n        git.pull()\r\n                .setRemoteBranchName(\"master\")  //设置需要pull的远端分支\r\n                .setCredentialsProvider(provider)  //身份验证\r\n                .call();\r\n        System.out.print(\"6666\");\r\n        git.push()\r\n                .setRemote(\"origin\")    //设置推送的URL名称\r\n                .setRefSpecs(new RefSpec(branch))   //设置需要推送的分支,如果远端没有则创建\r\n                .setCredentialsProvider(provider)   //身份验证\r\n                .call();\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/visualgit/mian.java b/visualgit/mian.java
+--- a/visualgit/mian.java	
++++ b/visualgit/mian.java	
+@@ -28,7 +28,7 @@
+         System.out.println(git);
+ //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
+         CredentialsProvider provider = new UsernamePasswordCredentialsProvider("PRIVATE-TOKEN", "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");  //生成身份信息
+-
++//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
+         String branch = "master";   //克隆目标分支
+   /*      git.push()
+                 .setRemote("origin")    //设置推送的URL名称

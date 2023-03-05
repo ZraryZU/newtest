@@ -1,0 +1,29 @@
+<changelist name="在变基之前未提交的更改_[变更]4" date="1677685881590" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/shelved.patch" />
+  <option name="DESCRIPTION" value="在变基之前未提交的更改 [变更]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/com/com/visualgit/jFrame$36.class" />
+    <option name="AFTER_PATH" value="out/production/com/com/visualgit/jFrame$36.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/jFrame$36.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/com/com/visualgit/MyGit/MyGit.class" />
+    <option name="AFTER_PATH" value="out/production/com/com/visualgit/MyGit/MyGit.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/MyGit.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/com/com/visualgit/jFrame.class" />
+    <option name="AFTER_PATH" value="out/production/com/com/visualgit/jFrame.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/jFrame.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/com/com/visualgit/MyGit/MyGit$2.class" />
+    <option name="AFTER_PATH" value="out/production/com/com/visualgit/MyGit/MyGit$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/MyGit$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/com/com/visualgit/mian.class" />
+    <option name="AFTER_PATH" value="out/production/com/com/visualgit/mian.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[变更]4/mian.class" />
+  </binary>
+</changelist>

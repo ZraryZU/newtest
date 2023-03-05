@@ -1,0 +1,806 @@
+Index: loginfo.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>check_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nfailed\r\n邮箱is not a vaild email address\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref 1 already exists\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref 1 already exists\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nfailed\r\n邮箱is not a vaild email address\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: not authorized\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: Nothing to fetch.\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\n<<<<<<< HEAD\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\n=======\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRemoteException: Invalid remote: origin\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_authorInfo\r\n>>>>>>> 958925fcbe3d93518eb70a48f72047fb46ff60db\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\n<<<<<<< HEAD\r\nswitchBranch\r\n=======\r\nremote_clone\r\n>>>>>>> 958925fcbe3d93518eb70a48f72047fb46ff60db\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.NoHeadException: Cannot check out from unborn branch\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidConfigurationException: No value for key remote.origin.url found in configuration\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/JavagitSHU/Visual-Git.git: cannot open git-upload-pack\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: not authorized\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack\r\n====================\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/loginfo.txt b/loginfo.txt
+--- a/loginfo.txt	(revision e134db81647a4f814a9bd38b169f1ea2d9180de6)
++++ b/loginfo.txt	(date 1677518589144)
+@@ -1766,3 +1766,406 @@
+ failed
+ org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
+ ====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++set_authorInfo
++failed
++zurui@shu.edu.cnis not a vaild email address
++====================
++set_privateToken
++Succeeded
++====================
++remote_clone
++failed
++org.eclipse.jgit.api.errors.InvalidRemoteException: Invalid remote: origin
++====================
++branchList
++failedSucceeded
++====================
++remote_clone
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_privateToken
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_remoteURI
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_authorInfo
++failed
++zurui@shu.edu.cnis not a vaild email address
++====================
++set_remoteURI
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++init
++Succeeded
++====================
++createBranch
++Succeeded
++====================
++switchBranch
++Succeeded
++====================
++init
++Succeeded
++====================
++status
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++set_authorInfo
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++set_remoteURI
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git/: cannot open git-receive-pack
++====================
++createBranch
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++switchBranch
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git/: cannot open git-receive-pack
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++status
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++set_authorInfo
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++status
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: origin: not found.
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: origin: not found.
++====================
++set_remoteURI
++Succeeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++init
++Succeeded
++====================
++createBranch
++failed
++org.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists
++====================
++switchBranch
++Succeeded
++====================
++init
++Succeeded
++====================
++set_remoteURI
++Succeeded
++====================
++status
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++createBranch
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++switchBranch
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
+Index: out/production/com/com/loginfo.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>check_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nfailed\r\n邮箱is not a vaild email address\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref 1 already exists\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref 1 already exists\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nfailed\r\n邮箱is not a vaild email address\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ndeleteBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ncreateGitRepository\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nremote_pull\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\ncreateBranch\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nremote_push\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: not authorized\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nswitchBranch\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_remoteURI\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: Nothing to fetch.\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\n<<<<<<< HEAD\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRefNameException: Branch name <null> is not allowed\r\n====================\r\ncreateBranch\r\n=======\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidRemoteException: Invalid remote: origin\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_privateToken\r\nSucceeded\r\n====================\r\nset_authorInfo\r\nSucceeded\r\n====================\r\nset_authorInfo\r\n>>>>>>> 958925fcbe3d93518eb70a48f72047fb46ff60db\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\n<<<<<<< HEAD\r\nswitchBranch\r\n=======\r\nremote_clone\r\n>>>>>>> 958925fcbe3d93518eb70a48f72047fb46ff60db\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefAlreadyExistsException: Ref main already exists\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.NoHeadException: Cannot check out from unborn branch\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\ncreateBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref HEAD cannot be resolved\r\n====================\r\nswitchBranch\r\nfailed\r\norg.eclipse.jgit.api.errors.RefNotFoundException: Ref main cannot be resolved\r\n====================\r\ninit\r\nSucceeded\r\n====================\r\nremote_pull\r\nfailed\r\norg.eclipse.jgit.api.errors.InvalidConfigurationException: No value for key remote.origin.url found in configuration\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nadd\r\nSucceeded\r\n====================\r\nstatus\r\nSucceeded\r\n====================\r\ncommit\r\nSucceeded\r\n====================\r\nremote_push\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\ncheck_localPath\r\nSucceeded\r\n====================\r\nopenRepo\r\nSucceeded\r\n====================\r\nset_localPath\r\nSucceeded\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nset_userName\r\nSucceeded\r\n====================\r\nset_password\r\nSucceeded\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nremote_clone\r\nfailed\r\norg.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack\r\n====================\r\nbranchList\r\nfailedSucceeded\r\n====================\r\nremote_clone\r\nSucceeded\r\n====================\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/com/com/loginfo.txt b/out/production/com/com/loginfo.txt
+--- a/out/production/com/com/loginfo.txt	(revision e134db81647a4f814a9bd38b169f1ea2d9180de6)
++++ b/out/production/com/com/loginfo.txt	(date 1677515676432)
+@@ -1685,3 +1685,340 @@
+ remote_clone
+ Succeeded
+ ====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++remote_clone
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/JavagitSHU/Visual-Git.git: cannot open git-upload-pack
++====================
++remote_clone
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++remote_clone
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-upload-pack
++====================
++branchList
++failedSucceeded
++====================
++remote_clone
++Succeeded
++====================
++status
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++commit
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
++====================
++status
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/Dilute9629/test.git: cannot open git-receive-pack
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++set_authorInfo
++failed
++zurui@shu.edu.cnis not a vaild email address
++====================
++set_privateToken
++Succeeded
++====================
++remote_clone
++failed
++org.eclipse.jgit.api.errors.InvalidRemoteException: Invalid remote: origin
++====================
++branchList
++failedSucceeded
++====================
++remote_clone
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++add
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_privateToken
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_remoteURI
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++set_authorInfo
++failed
++zurui@shu.edu.cnis not a vaild email address
++====================
++set_remoteURI
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++add
++Succeeded
++====================
++status
++Succeeded
++====================
++commit
++Succeeded
++====================
++status
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++set_localPath
++Succeeded
++====================
++check_localPath
++Succeeded
++====================
++openRepo
++Succeeded
++====================
++init
++Succeeded
++====================
++createBranch
++Succeeded
++====================
++switchBranch
++Succeeded
++====================
++init
++Succeeded
++====================
++status
++Succeeded
++====================
++set_userName
++Succeeded
++====================
++set_password
++Succeeded
++====================
++set_privateToken
++Succeeded
++====================
++set_authorInfo
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: cannot open git-receive-pack
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: http://github.com/ZraryZU/testrepo.git: not authorized
++====================
++set_remoteURI
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git/: cannot open git-receive-pack
++====================
++createBranch
++Succeeded
++====================
++branchList
++failedSucceeded
++====================
++switchBranch
++Succeeded
++====================
++remote_push
++failed
++org.eclipse.jgit.api.errors.TransportException: https://github.com/ZraryZU/testrepo.git/: cannot open git-receive-pack
++====================
+Index: out/production/com/com/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_19\" project-jdk-name=\"19\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/com/com/.idea/misc.xml b/out/production/com/com/.idea/misc.xml
+--- a/out/production/com/com/.idea/misc.xml	(revision e134db81647a4f814a9bd38b169f1ea2d9180de6)
++++ b/out/production/com/com/.idea/misc.xml	(date 1677515827924)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="19" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_19\" project-jdk-name=\"19\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision e134db81647a4f814a9bd38b169f1ea2d9180de6)
++++ b/.idea/misc.xml	(date 1677515827924)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="19" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file

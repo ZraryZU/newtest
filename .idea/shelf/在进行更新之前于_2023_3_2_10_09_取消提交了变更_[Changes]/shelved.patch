@@ -1,0 +1,103 @@
+Index: .idea/artifacts/com_jar.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/artifacts/com_jar.xml b/.idea/artifacts/com_jar.xml
+new file mode 100644
+--- /dev/null	(date 1677722661481)
++++ b/.idea/artifacts/com_jar.xml	(date 1677722661481)
+@@ -0,0 +1,22 @@
++<component name="ArtifactManager">
++  <artifact type="jar" name="com:jar">
++    <output-path>$PROJECT_DIR$/out/artifacts/com_jar</output-path>
++    <root id="archive" name="com.jar">
++      <element id="directory" name="META-INF">
++        <element id="file-copy" path="$PROJECT_DIR$/visualgit/META-INF/MANIFEST.MF" />
++      </element>
++      <element id="module-output" name="com" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jgit/org.eclipse.jgit/5.4.0.201906121030-r/org.eclipse.jgit-5.4.0.201906121030-r.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-jdk15on/1.61/bcpg-jdk15on-1.61.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.61/bcprov-jdk15on-1.61.jar" path-in-jar="/" />
++      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.61/bcpkix-jdk15on-1.61.jar" path-in-jar="/" />
++    </root>
++  </artifact>
++</component>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"56e17339-57b7-46ff-9429-9fabec41edce\" name=\"Changes\" comment=\"command监听绑完(加上NO COMMAND)\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/visualgit/MyGit/MyGit.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/visualgit/MyGit/MyGit.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/visualgit/jFrame.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/visualgit/jFrame.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2MMw6T4gmdrl9KxHf7pSStqN86l\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"project.structure.last.edited\": \"项目\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.ide.settings.uml\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"56e17339-57b7-46ff-9429-9fabec41edce\" name=\"Changes\" comment=\"\" />\r\n      <created>1677590586898</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1677590586898</updated>\r\n      <workItem from=\"1677590589728\" duration=\"3171000\" />\r\n      <workItem from=\"1677662639807\" duration=\"51000\" />\r\n      <workItem from=\"1677662717066\" duration=\"82000\" />\r\n      <workItem from=\"1677663344699\" duration=\"660000\" />\r\n      <workItem from=\"1677664317364\" duration=\"1392000\" />\r\n      <workItem from=\"1677668005599\" duration=\"1058000\" />\r\n      <workItem from=\"1677669211442\" duration=\"501000\" />\r\n      <workItem from=\"1677671663993\" duration=\"46000\" />\r\n      <workItem from=\"1677671981235\" duration=\"3496000\" />\r\n      <workItem from=\"1677675564242\" duration=\"126000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"command监听绑完\">\r\n      <created>1677689255860</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1677689255860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"command监听绑完(加上NO COMMAND)\">\r\n      <created>1677689538578</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1677689538578</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"cb7496e4-713c-41f6-a8fc-da289fe71d80\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"command监听绑完\" />\r\n    <MESSAGE value=\"command监听绑完(加上NO COMMAND)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"command监听绑完(加上NO COMMAND)\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <watches-manager>\r\n      <configuration name=\"Application\">\r\n        <watch expression=\"flag\" language=\"JAVA\" />\r\n      </configuration>\r\n    </watches-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1a39d9a6f72d45186bea04133aefc9a8ef1ea118)
++++ b/.idea/workspace.xml	(date 1677722661486)
+@@ -1,13 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ArtifactsWorkspaceSettings">
++    <artifacts-to-build>
++      <artifact name="com:jar" />
++    </artifacts-to-build>
++  </component>
+   <component name="AutoImportSettings">
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="56e17339-57b7-46ff-9429-9fabec41edce" name="Changes" comment="command监听绑完(加上NO COMMAND)">
++    <list default="true" id="56e17339-57b7-46ff-9429-9fabec41edce" name="Changes" comment="修改localpath未定义bug">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/visualgit/MyGit/MyGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/visualgit/MyGit/MyGit.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/visualgit/jFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/visualgit/jFrame.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,9 +33,10 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "project.structure.last.edited": "项目",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
++    "last_opened_file_path": "E:/JAVA程序设计/visualgit/Visual-Git/visualgit",
++    "project.structure.last.edited": "工件",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.2045977",
+     "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+   }
+ }]]></component>
+@@ -69,7 +73,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1677689538578</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="修改localpath未定义bug">
++      <created>1677692395653</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1677692395654</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -106,7 +117,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="command监听绑完" />
+     <MESSAGE value="command监听绑完(加上NO COMMAND)" />
+-    <option name="LAST_COMMIT_MESSAGE" value="command监听绑完(加上NO COMMAND)" />
++    <MESSAGE value="修改localpath未定义bug" />
++    <option name="LAST_COMMIT_MESSAGE" value="修改localpath未定义bug" />
+   </component>
+   <component name="XDebuggerManager">
+     <watches-manager>
